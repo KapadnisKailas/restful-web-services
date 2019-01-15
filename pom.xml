@@ -50,6 +50,11 @@
 			<scope>test</scope>
 		</dependency>
 		
+		<!-- below dependency for support of xml for restful web services. -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.dataformat</groupId>
+			<artifactId>jackson-dataformat-xml</artifactId>
+		</dependency>
 		
 	</dependencies>
 
